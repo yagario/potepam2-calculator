@@ -1,1 +1,0 @@
-# potepam2-calculator
